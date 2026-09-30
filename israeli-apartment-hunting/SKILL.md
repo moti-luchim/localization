@@ -36,10 +36,10 @@ The Israeli rental market is competitive and fast-moving. Understanding current 
 
 City-wide averages hide large neighborhood spreads (central Tel Aviv vs. south Tel Aviv, for example). For neighborhood character and relative price tiers see `references/city-rental-guide.md`, and check live listings on Yad2 and Madlan before quoting a number to the user.
 
-**Key market characteristics:**
+**Key market characteristics (general market experience, not measured data):**
 - Rental contracts are typically 12 months, often with an option to extend
-- Most apartments are rented unfurnished (without furniture, appliances vary)
-- Demand peaks in summer months (June through September) when students and new olim (immigrants) search
+- In practice, most apartments are rented unfurnished (without furniture, appliances vary)
+- Demand is often highest in the summer (roughly June through September), when students and new olim (immigrants) search
 - Listings can disappear within hours in hot markets like Tel Aviv
 
 ### Step 2: Search Platforms
@@ -66,7 +66,7 @@ Israeli rental listings use specific Hebrew terminology. Understanding these ter
 Key terms: חדרים (rooms, living room included), ממ"ד (mamad, in-apartment safe room; since 1992 new construction needs a protected space, either a mamad or a floor-level mamak, ממ"ק), מרפסת שמש (sun balcony, open to the sky), ועד בית (vaad bayit, monthly building fee), ארנונה (arnona, municipal tax paid by the tenant), תיווך / מתווך (brokerage / broker), מבעלים (from owner, no broker), חוזה שכירות (lease). The full glossary is in `references/hebrew-rental-glossary.md`.
 
 **Israeli room counting:**
-In Israel, the room count includes the living room (salon, סלון). So a "3-room apartment" (dirat 3 chadarim) typically means 2 bedrooms plus a living room. A "2-room apartment" is a 1-bedroom with living room. Listings also use half rooms (3.5 rooms), usually for a small extra room.
+In Israel, the room count includes the living room (salon, סלון). So a "3-room apartment" (dirat 3 chadarim) typically means 2 bedrooms plus a living room. A "2-room apartment" is a 1-bedroom with living room. Listings also use half rooms (3.5 rooms), in practice often a small extra room.
 
 ### Step 4: Viewing Apartments
 
@@ -100,7 +100,7 @@ Prepare questions in advance (vaad bayit cost, arnona rate, included appliances)
 
 ### Step 5: Negotiation and Offer Process
 
-Negotiation is common and expected in the Israeli rental market. Most landlords build a margin into their asking price.
+Negotiation is common in the Israeli rental market, and in practice many landlords build a margin into their asking price. The ranges below are rules of thumb, not data.
 
 | Negotiation Point | Typical Range |
 |-------------------|---------------|
@@ -108,13 +108,13 @@ Negotiation is common and expected in the Israeli rental market. Most landlords 
 | Lease length | 12 months standard, 24 months may get discount |
 | Included appliances | AC units, washing machine, fridge |
 | Repairs before move-in | Painting, plumbing fixes, appliance replacement |
-| Move-in date flexibility | 1-2 weeks negotiable |
+| Move-in date flexibility | Often a week or two can be negotiated |
 | Index-linked increases | There is no statutory rent cap; rent rises only through an indexation clause or at renewal, so negotiate the clause itself |
 | Exit clause | Without a cancellation clause neither side can end the lease early, so negotiate an early-exit or replacement-tenant clause up front |
 
 **Negotiation tips:**
 - Research comparable listings on Yad2 and Madlan to justify your offer
-- If the apartment has been listed for over 3 weeks, the landlord may accept lower offers
+- A common rule of thumb: if the apartment has been listed for several weeks (say 3 or more), the landlord may accept a lower offer
 - Offer to pay several months upfront in exchange for a discount, but only after the lease is signed and ownership is verified (Step 7.6).
 - Request that the landlord handle specific repairs as a condition of signing
 - Always negotiate before signing, not after
@@ -153,7 +153,7 @@ Landlords and brokers typically require specific documents. Having these ready a
 **New olim without Israeli pay slips or checks:** offer what the landlord can verify instead: an employment contract or foreign pay slips, a bank guarantee, or prepaid rent once the lease is signed. A new account may not come with a checkbook right away, so ask the landlord to accept a standing order (הוראת קבע).
 
 **Guarantor (arev, ערב) requirements:**
-- Most landlords require 1-2 guarantors
+- In practice, landlords often ask for one or two guarantors
 - Guarantors are legally responsible if tenant defaults on rent
 - Landlords usually want guarantors with Israeli residency and stable income
 - New olim without local guarantors can sometimes use a bank guarantee (arevut bankit, ערבות בנקאית) instead

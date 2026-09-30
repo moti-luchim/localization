@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.1 - 2026-10-01
+
+### Changed
+
+- Market rules of thumb (summer demand peak, listing age, move-in flexibility, number of guarantors, half rooms, negotiation margin) are now framed as general market experience rather than stated as fact, in both languages.
+
 ## 1.3.0 - 2026-10-01
 
 ### Fixed
