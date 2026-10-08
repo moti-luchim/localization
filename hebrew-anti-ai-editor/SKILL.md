@@ -70,5 +70,19 @@ Source (invented, register A): "בסופו של יום, חשוב לציין שה
 Edited: "הפתרון עוזר ללקוחות לחסוך זמן." Only if the source supports the "save time" claim. If it does not, the edit stays at "הפתרון הוא כלי מרכזי ללקוחות" and flags the missing specific.
 Changes: D1 (cliché opening removed), D3 (empty phrase removed), D5 (vague "value" flagged).
 
+## Usage example
+User says: "Make this paragraph sound natural, register A."
+Result: the edited text, the operations used (for example D1, D3), and a note of what was kept on purpose.
+
+## Troubleshooting
+
+### Error: The edit changed a fact or a term
+Cause: An operation shortened or reworded too far
+Solution: Run D8 against the source and restore the original wording of facts, names, numbers and terms.
+
+### Error: The text sounds over-polished
+Cause: Too many operations were applied
+Solution: Re-run with D7 only and keep wording that has a personal voice.
+
 ## Hebrew version
 The same skill in Hebrew, with the same sections in the same order, is in references/SKILL_HE.md.
